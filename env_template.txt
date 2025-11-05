@@ -1,0 +1,14 @@
+# Bot Configuration
+BOT_TOKEN=8292296245:AAHhFkMClAOsFAlCOoNiqwzGTfnEI266xJQ
+
+# Tripay Configuration  
+TRIPAY_API_KEY=your_tripay_api_key
+TRIPAY_PRIVATE_KEY=your_tripay_private_key
+TRIPAY_MERCHANT_CODE=your_merchant_code
+
+# Admin Configuration
+ADMIN_USER_IDS=8459142797
+
+# Webhook Configuration (for payment notifications)
+WEBHOOK_URL=https://your-domain.com
+WEBHOOK_PORT=8080 
